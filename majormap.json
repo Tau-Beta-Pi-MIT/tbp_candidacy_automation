@@ -1,0 +1,20 @@
+{
+"_comment":"This file contains the conversions from PSU major codes to TBP major codes; edits can be made in the pattern of <PSU major>:<TBP major> each PSU major may map to exactly one TBP major but multiple PSU majors may map to one TBP major",
+"AERSP_BS":"Aerospace engg","AERSP_MENG":"Aerospace engg","AERSP_MS":"Aerospace engg","AERSP_PHD":"Aerospace engg",
+"AE_BAE":"Architectural engg","AE_MAE":"Architectural engg","AE_MENG":"Architectural engg","AE_MS":"Architectural engg","AE_PHD":"Architectural engg",
+"BIOE_MS":"Bioengineering/Biomedical engg","BIOE_PHD":"Bioengineering/Biomedical engg","BE_BS":"Bioengineering/Biomedical engg","BME_BS":"Bioengineering/Biomedical engg","BME_MS":"Bioengineering/Biomedical engg","ABENG_MS":"Bioengineering/Biomedical engg","ABENG_PHD":"Bioengineering/Biomedical engg",
+"CHE_BS":"Chemical engg","CHE_MS":"Chemical engg","CHE_PHD":"Chemical engg",
+"CE_BS":"Civil engg","CE_MENG":"Civil engg","CE_MS":"Civil engg","CE_PHD":"Civil engg","CECA_BS":"Civil engg","CENG_MS":"Civil engg",
+"CMPEN_BS":"Computer engg",
+"CMPSC_BS":"Computer science","COMP_BS":"Computer science","COMP_MS":"Computer science","CSE_MENG":"Computer science","CSE_MS":"Computer science","CSE_PHD":"Computer science",
+"EE_BS":"Electrical engg","EE_MENG":"Electrical engg","EE_MS":"Electrical engg","EE_PHD":"Electrical engg","EENG_BS":"Electrical engg","EENG_MS":"Electrical engg",
+"ENENG_BS":"Energy engg","EME_MS":"Energy engg","EME_PHD":"Energy engg",
+"ESC_BS":"Engineering science","ESC_MENG":"Engineering science","ESMCH_MS":"Engineering science","ESMCH_PHD":"Engineering science",
+"ENV_E_MENG":"Environmental systems engg","ENV_E_MS":"Environmental systems engg","ENV_E_PHD":"Environmental systems engg","ENVE_MENG":"Environmental systems engg",
+"IE_BS":"Industrial engg","IE_MS":"Industrial engg","IE_PHD":"Industrial engg",
+"MATSE_BS":"Materials science and engg","MATSE_MS":"Materials science and engg","MATSE_PHD":"Materials science and engg",
+"MCENG_MS":"Mechanical engg","ME_BS":"Mechanical engg","ME_MS":"Mechanical engg","ME_PHD":"Mechanical engg","MEBK_BS":"Mechanical engg","MECA_BS":"Mechanical engg",
+"MNGE_BS":"Mining engg",
+"NUCE_BS":"Nuclear engg","NUCE_MENG":"Nuclear engg","NUCE_MS":"Nuclear engg","NUCE_PHD":"Nuclear engg",
+"PNGE_BS":"Petroleum and natural gas engg"
+}
